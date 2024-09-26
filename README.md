@@ -1,13 +1,12 @@
-# PRODUTO
+# PRODUTO_NOVO
 
-Este repositório contém dois projetos em Java que implementam classes para representar um produto e uma pessoa. A classe Produto inclui funcionalidades para calcular o lucro, enquanto a classe Pessoas gera um e-mail automaticamente no formato nome.sobrenome@dominio.
+Este repositório contém um projeto em Java que implementa classe para representar um PRODUTO_NOVO. A classe PRODUTO_NOVO inclui funcionalidades para verificar os valores de nome, preço custo e data de fabricação para conseguir calcular o preço venda e a data de validade.
 
 # 🚀 Começando
 
-- Crie uma classe que representa um produto. A classe deve ter os atributos nome, marca, preço de custo e preço de venda. Deve ter também um método que calcula e retorna o lucro.
-- Crie objetos dessa classe e escreva na tela seus atributos e o valor do lucro.
-- Crie uma classe para representar pessoas. O construtor da classe deve receber como parâmetros o nome completo, altura e a data de nascimento. Os objetos, logo após criados, devem criar automaticamente um e-mail no formato nome.sobrenome@dominio.
-
+- Crie uma classe que representa um PRODUTO_NOVO. Crie três construtores; o primeiro deve ter os parâmetros nome, preçoCusto, preçoVenda, dataFab e dataVal; o segundo recebe o nome preço de custo, preço de venda e data de fabricação. Nesse caso a data de validade será 1 mês após a data de fabricação; e o terceiro recebe apenas o nome e preço de custo. Nesse caso, o preço de venda será 10% a mais sobre o preço de custo e a data de validade segue o mesmo critério do item anterior.
+- Crie métodos para apresentar os valores no console.
+  
 # 📋 Pré-requisitos
 
 - Java Development Kit (JDK)
@@ -35,4 +34,4 @@ Este repositório contém dois projetos em Java que implementam classes para rep
 
 # ✒ Autor
 
-- Jefferson Oliveira
+- Willian Santos
