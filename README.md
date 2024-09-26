@@ -5,7 +5,7 @@ Este repositório contém um projeto em Java que implementa classe para represen
 # 🚀 Começando
 
 - Crie uma classe que representa um PRODUTO_NOVO. Crie três construtores; o primeiro deve ter os parâmetros nome, preçoCusto, preçoVenda, dataFab e dataVal; o segundo recebe o nome preço de custo, preço de venda e data de fabricação. Nesse caso a data de validade será 1 mês após a data de fabricação; e o terceiro recebe apenas o nome e preço de custo. Nesse caso, o preço de venda será 10% a mais sobre o preço de custo e a data de validade segue o mesmo critério do item anterior.
-- Crie métodos para apresentar os valores no console.
+- Crie métodos para apresentar os resultados no console.
   
 # 📋 Pré-requisitos
 
